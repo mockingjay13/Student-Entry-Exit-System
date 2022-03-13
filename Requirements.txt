@@ -1,0 +1,8 @@
+1. Python version 3.8+
+2. Python Libraries
+	a. face_recognition
+	b. tkinter
+	c. OpenCV
+	d. Pillow
+	e. numpy
+	f. csv
